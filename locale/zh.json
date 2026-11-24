@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "视频生成模式",
+    "description": "给 Harness 增加一个面向 OpenMotion 的视频创作模式：原创、复刻、套模板、素材生成、渲染导出。",
+    "detail": "docs/DETAIL.md"
+  }
+}
