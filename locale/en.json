@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Video Generation mode",
+    "description": "Adds an OpenMotion video-production agent preset: original films, recreations, templates, generated media and export.",
+    "detail": "docs/DETAIL.md"
+  }
+}

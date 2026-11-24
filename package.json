@@ -1,0 +1,23 @@
+{
+  "name": "dsh-video-mode",
+  "version": "0.1.0",
+  "private": true,
+  "description": "视频生成模式：为 DeepSeek Harness 新增一个面向 OpenMotion 视频创作的 Agent 预设（模式）。",
+  "type": "module",
+  "exports": {
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg"
+  },
+  "files": [
+    "cordis.patch.yml",
+    "locale/*.json",
+    "docs",
+    "icon.svg",
+    "README.md"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
+}
