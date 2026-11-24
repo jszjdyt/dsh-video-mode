@@ -12,7 +12,7 @@
 或用 `plugin_manager` 的 `install_bundle`，`target` 填本目录绝对路径：
 
 ```
-/Users/dingyuntao/Desktop/deepseek harness/plugins/dsh-video-mode
+<本仓库克隆目录>/dsh-video-mode
 ```
 
 安装后**新建任务**，在模式菜单选「视频生成模式」。已存在的会话仍保留原先的模式。
