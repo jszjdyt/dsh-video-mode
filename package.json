@@ -19,5 +19,9 @@
     "bundle": {
       "patch": "./cordis.patch.yml"
     }
+  },
+  "ci": {
+    "node": [],
+    "python": []
   }
 }
